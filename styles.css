@@ -72,6 +72,8 @@ p{
 }
 
 .icons{
+    cursor: pointer;
+
     width: 17px;
     height: 17px;
 }
