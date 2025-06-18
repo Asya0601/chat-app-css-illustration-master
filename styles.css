@@ -225,6 +225,10 @@ body{
 
 .nameContainer p{
     color: var(--paleViolet);
+
+    width: 100%;
+
+    margin-top: 0.2rem;
 }
 
 .nameContainer{
